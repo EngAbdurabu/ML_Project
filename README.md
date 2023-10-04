@@ -1,6 +1,3 @@
-Creating a good README file is essential for your project, as it helps users and collaborators understand how to use your application. Below is a template for a README file for your Flask-based healthcare prediction project. Customize it according to your specific project details and requirements.
-
----
 
 # Healthcare Prediction Web Application
 
